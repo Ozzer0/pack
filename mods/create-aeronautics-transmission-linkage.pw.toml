@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Transmission & Linkage"
+filename = "create_aeronautics_transmission_linkage-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11f4e25f97a5227613d253526b99df0f515a8dee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8145340
+project-id = 1548056
