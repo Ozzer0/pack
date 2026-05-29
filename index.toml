@@ -560,6 +560,11 @@ hash = "cad7c76b1cf464eccaa02c7da5cb258dd073e5da2176f0c6aa874ca2fb595e7b"
 metafile = true
 
 [[files]]
+file = "mods/cobblemore-library.pw.toml"
+hash = "b65f2b09d07b8db21de571c3353a8a2d3386aa0ee8b3f5abb00d736c3286910b"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
 metafile = true
@@ -730,6 +735,11 @@ hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
 metafile = true
 
 [[files]]
+file = "mods/ldlib.pw.toml"
+hash = "08ab7faff4f4971758fc0bbfa3b301a78aa5ca5a164e5435cd057cb84f1847cf"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
@@ -835,7 +845,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e8964aa3252bc02d75abbeac52b4d8deb621e56bc6b549e3127b0f2bc4a76fc2"
+hash = "eb2b31d6348de9a24515ed37bba91fd16f7a923065091a81dc26e28ad15395e8"
 metafile = true
 
 [[files]]
