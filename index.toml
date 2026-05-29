@@ -765,10 +765,6 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
-file = "mods/neopackwizinstaller-1.0.0.jar"
-hash = "9d6911439f4a38ac817ecd33e5db790ff31e2bc8a071bae7af49a002bfce5f9e"
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
